@@ -38,6 +38,9 @@ if( PCL_COMMON_LIB )
              PATH_SUFFIXES 
              include/pcl
              include/pcl/pcl
+             include/pcl-1.11/pcl
+             include/pcl-1.10/pcl
+             include/pcl-1.9/pcl
              include/pcl-1.8/pcl
              include/pcl-1.7/pcl
              include/pcl-1.6/pcl
